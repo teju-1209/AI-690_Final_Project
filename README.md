@@ -122,6 +122,10 @@ Video Demonstrates:
 -Age and gender prediction
 -Real-time output visualization
 
+Video Link:
+-----------
+[ https://github.com/user-attachments/assets/fc2c43cb-90cf-411a-ae2a-e469875df1fc ]
+
 Limitations:
 ------------
 -Accuracy depends on lighting and face visibility
